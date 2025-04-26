@@ -2,15 +2,25 @@ import React, { useState } from 'react';
 import Trip1 from '../assets/Trip (1).jpg';
 import Trip2 from '../assets/Trip (2).jpg';
 import Trip3 from '../assets/Trip(3).jpg';
-import Trip4 from '../assets/Trip (4).jpg';
+import Trip4 from '../assets/Trip(4).jpg';
 import Trip5 from '../assets/Trip(5).jpg';
+import Trip6 from '../assets/Trip(6).jpg';
+import Trip7 from '../assets/Trip(7).jpg';
+import Trip8 from '../assets/Trip(8).jpg';
+import Trip9 from '../assets/Trip(9).jpg';
+import Trip10 from '../assets/Trip (10).jpg';
 
 const games = [
   { img: Trip1 },
-  { img: Trip2 },
   { img: Trip3 },
   { img: Trip4 },
   { img: Trip5 },
+  { img: Trip2 },
+  { img: Trip6 },
+  { img: Trip7 },
+  { img: Trip8 },
+  { img: Trip9 },
+  { img: Trip10 }
 ];
 
 const Carousel = () => {
