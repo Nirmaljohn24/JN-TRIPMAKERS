@@ -68,7 +68,7 @@ const Contact = () => {
                         <div className="mt-6 flex flex-wrap gap-4 justify-center items-center text-center">
                             <span className="text-lg font-semibold w-full md:w-auto">Contact Us :</span>
 
-                            <a href="https://wa.me/9790493253" target="_blank" rel="noopener noreferrer">
+                            <a href="https://wa.me/919790493253" target="_blank" rel="noopener noreferrer">
                                 <FaWhatsapp className="text-4xl text-green-500" />
                             </a>
 
