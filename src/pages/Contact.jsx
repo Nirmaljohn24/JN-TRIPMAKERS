@@ -30,58 +30,50 @@ const Contact = () => {
                     <div className="card-body">
                         <span className="badge badge-xs badge-warning">New Adventure</span>
                         <div className="flex justify-between items-center">
-                            <h2 className="text-2xl font-bold">Kanthalloor Camping 2.0</h2>
-                            <span className="text-sm font-semibold">17 – 18 May</span>
+                            <h2 className="text-2xl font-bold mt-3">Kanthalloor Camping 2.0</h2>
+                            
                         </div>
-                        <p className="text-sm mt-1 text-gray-600">
+                        <p className="text-sm mt-3 text-gray-600">
                             To the Kashmir of Kerala - Strangers Group Trip
                         </p>
                     </div>
                 </div>
 
                 {/* Right Card */}
-                {/* <div className="card w-full md:w-96 bg-base-100 shadow-sm">
-                    <div className="card-body">
-                        <ul className="mt-4 flex flex-col gap-2 text-sm">
-                            <li>✓ Tent stay</li>
-                            <li>✓ 5 Times Food</li>
-                            <li>✓ Both Men & Women Coordinators</li>
-                            <li>✓ Pickup & Drop from Coimbatore</li>
-                        </ul>
+             <div className="card w-full md:w-96 bg-base-100 shadow-sm">
+                    <div className="card w-full md:w-96 bg-base-100 shadow-sm">
+            <div className="card-body text-sm space-y-4">
 
-                        <div className="mt-4">
-                            <h3 className="font-bold">Do's</h3>
-                            <ul className="list-disc ml-4 text-sm text-green-700">
-                                <li>Follow the coordinator's instructions</li>
-                                <li>Respect fellow travelers and nature</li>
-                                <li>Stay hydrated and active</li>
-                            </ul>
-                        </div>
+                {/* Camping Details */}
+                <div>
+                    <h2 className="text-lg font-bold text-green-700 mb-2">🏕️ Kanthaloor Camping 2.0 - Kashmir of Kerala</h2>
+                    <ul className="list-disc ml-4 space-y-1">
+                        <li><strong>Date:</strong> May 17,18 (Saturday & Sunday)</li>
+                        <li><strong>Location:</strong> Kanthaloor, Kerala</li>
+                        <li><strong>Charges:</strong> ₹3699/person</li>
+                        <li><strong>Duration:</strong> 2 Days 1 Night</li>
+                        <li><strong>Transport:</strong> Tempo Travellers / 20 Seater Mini Coach</li>
+                    </ul>
+                </div>
 
-                        <div className="mt-2">
-                            <h3 className="font-bold">Don'ts</h3>
-                            <ul className="list-disc ml-4 text-sm text-red-700">
-                                <li>Don't consume alcohol or drugs</li>
-                            </ul>
-                        </div>
+                {/* What's Included */}
+                <div>
+                    <h3 className="font-bold text-green-700">✅ Inclusions</h3>
+                    <ul className="list-disc ml-4 space-y-1">
+                        <li>Tent Stay</li>
+                        <li>5 Times Food</li>
+                        <li>Both Men & Women Coordinators</li>
+                        <li>Pickup & Drop from Coimbatore</li>
+                    </ul>
+                </div>
 
-                        <div className="mt-6 flex flex-wrap gap-4 justify-center items-center text-center">
-                            <span className="text-lg font-semibold w-full md:w-auto">Contact Us :</span>
+                </div>
 
-                            <a href="https://wa.me/919790493253" target="_blank" rel="noopener noreferrer">
-                                <FaWhatsapp className="text-4xl text-green-500" />
-                            </a>
+                       
 
-                            <a href="https://www.facebook.com/share/1RfUjQY5Mf/" target="_blank" rel="noopener noreferrer">
-                                <FaFacebook className="text-3xl text-blue-500" />
-                            </a>
-
-                            <a href="https://www.instagram.com/jntripmakers?igsh=MTBuZm04ZjNnem5pdA==" target="_blank" rel="noopener noreferrer">
-                                <SiInstagram className="text-3xl" style={{ color: '#E4405F' }} />
-                            </a>
-                        </div>
+                       
                     </div>
-                </div> */}
+                </div>
             </div>
           </div>
         </>

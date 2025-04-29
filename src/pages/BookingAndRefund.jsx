@@ -52,7 +52,7 @@ const BookingAndRefund = () => {
             <div className="border-l-4 border-yellow-500 bg-yellow-50 shadow-md rounded-lg p-6">
                 <h2 className="text-2xl font-bold text-yellow-700 flex items-center font-serif">
                     <FaInfoCircle className="mr-2 text-yellow-600" />
-                    Notes
+                    Note
                 </h2>
                 <ul className="list-disc pl-6 space-y-2 text-gray-700 font-sans">
                     <li>Bookings are confirmed only after advance payment.</li>

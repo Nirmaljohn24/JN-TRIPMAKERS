@@ -29,7 +29,7 @@ const CoordinatorsSection = () => {
             {/* Coordinators */}
             <div className="bg-white shadow-md rounded-lg p-6 border-l-4 border-green-500">
                 <h2 className="text-2xl md:text-3xl font-extrabold text-green-700 font-serif mb-4">
-                    📞 Coordinators
+                    Coordinators
                 </h2>
                 <ul className="list-disc pl-6 space-y-2 text-lg font-medium font-sans">
                     <li className="flex items-center gap-2">
