@@ -31,7 +31,7 @@ const Contact = () => {
                         <span className="badge badge-xs badge-warning">New Adventure</span>
                         <div className="flex justify-between items-center">
                             <h2 className="text-2xl font-bold">Kanthalloor Camping 2.0</h2>
-                            <span className="text-sm font-semibold">3 – 4 May</span>
+                            <span className="text-sm font-semibold">17 – 18 May</span>
                         </div>
                         <p className="text-sm mt-1 text-gray-600">
                             To the Kashmir of Kerala - Strangers Group Trip
@@ -40,7 +40,7 @@ const Contact = () => {
                 </div>
 
                 {/* Right Card */}
-                <div className="card w-full md:w-96 bg-base-100 shadow-sm">
+                {/* <div className="card w-full md:w-96 bg-base-100 shadow-sm">
                     <div className="card-body">
                         <ul className="mt-4 flex flex-col gap-2 text-sm">
                             <li>✓ Tent stay</li>
@@ -81,7 +81,7 @@ const Contact = () => {
                             </a>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </div>
           </div>
         </>

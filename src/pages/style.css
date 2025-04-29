@@ -1,8 +1,6 @@
-@import "tailwindcss";
-@plugin "daisyui" {
-  themes: light --default, dark --prefersdark;
-};
 
+
+/* Glitter Text Animation */
 @keyframes glitter {
   0% {
     background-position: 0% 50%;
@@ -22,5 +20,3 @@
   -webkit-text-fill-color: transparent;
   animation: glitter 3s ease-in-out infinite;
 }
-
-
