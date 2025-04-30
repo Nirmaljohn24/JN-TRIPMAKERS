@@ -61,9 +61,13 @@ const Contact = () => {
                     <h3 className="font-bold text-green-700">✅ Inclusions</h3>
                     <ul className="list-disc ml-4 space-y-1">
                         <li>Tent Stay</li>
+                        <li>Campfire with Music</li>
+                        <li>View Point Entry fee</li>
+                        <li>Freshup Spot</li>
                         <li>5 Times Food</li>
                         <li>Both Men & Women Coordinators</li>
                         <li>Pickup & Drop from Coimbatore</li>
+                        
                     </ul>
                 </div>
 

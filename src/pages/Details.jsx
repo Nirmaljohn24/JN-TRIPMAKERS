@@ -66,7 +66,7 @@ const Details = () => {
                             <h3 className="text-lg font-semibold text-green-600">Inclusions:</h3>
                             <ul className="list-disc pl-6 text-gray-700 font-sans space-y-1">
                                 <li>Pickup and Drop at Gandhipuram, Coimbatore</li>
-                                <li>5 Times food (Saturday 3 times and Sunday 3 times. Both Veg & Non veg)</li>
+                                <li>5 Times food (Saturday 3 times and Sunday 2 times. Both Veg & Non veg)</li>
                                 <li>Tent stay (Options- separate for couples)</li>
                                 <li>Men and Women Coordinators</li>
                                 <li>Campfire with music</li>
