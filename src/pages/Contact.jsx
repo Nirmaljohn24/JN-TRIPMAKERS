@@ -48,7 +48,7 @@ const Contact = () => {
                 <div>
                     <h2 className="text-lg font-bold text-green-700 mb-2">🏕️ Kanthaloor Camping 2.0 - Kashmir of Kerala</h2>
                     <ul className="list-disc ml-4 space-y-1">
-                        <li><strong>Date:</strong> May 17,18 (Saturday & Sunday)</li>
+                        <li><strong>Date:</strong> July 26,27 (Saturday & Sunday)</li>
                         <li><strong>Location:</strong> Kanthaloor, Kerala</li>
                         <li><strong>Charges:</strong> ₹3699/person</li>
                         <li><strong>Duration:</strong> 2 Days 1 Night</li>

@@ -8,6 +8,8 @@ import Carousel from './pages/Carousel'
 import Contact from './pages/Contact'
 import CoordinatorsSection from './pages/CoordinatorsSection'
 import Details from './pages/Details'
+import SimpleForm from './pages/SimpleForm'
+import TaskBoard from './pages/TaskBoard'
 
 
 function App() {
@@ -22,6 +24,8 @@ function App() {
       <Details/>
       <BookingAndRefund/>
       <CoordinatorsSection/>
+      {/* <TaskBoard/> */}
+      
       <Footer/>
     </>
   )
